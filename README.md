@@ -4,6 +4,7 @@
 - pip3 is automatically installed by python3.10.
 - Install chess library in terminal: pip3 install chess
 - Program will ask for a input black or white to choose side.
+- An additional rule to the standard chess: If the player to move has a legal chess move which captures an opponent’s piece, then the player to move must make a legal chess move which captures an opponent’s piece.
 - Need an input (eg. 'a2a3')  to push a move for opponent each round.
 - '1-0' or '0-1' will be printed if exists checkmate, '1/2-1/2' will be printed if there is no availiable move while not    checkmated or three-repetitions or 50-move rule.
 
